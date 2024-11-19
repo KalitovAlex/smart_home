@@ -1,0 +1,20 @@
+{
+    "appTitle": "Smart Home",
+    "devices": "{count, plural, =1{device} other{devices}}",
+    "morning_scene": "Morning scene",
+    "night_scene": "Night scene",
+    "rooms": "Rooms",
+    "scenes": "Scenes",
+    "settings": "Settings",
+    "addRoom": "Add Room",
+    "editRoom": "Edit Room",
+    "deleteRoom": "Delete Room",
+    "roomName": "Room Name",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "livingRoom": "Living Room",
+    "bedroom": "Bedroom",
+    "kitchen": "Kitchen",
+    "bathroom": "Bathroom"
+} 

@@ -1,0 +1,20 @@
+{
+    "appTitle": "Умный дом",
+    "devices": "{count, plural, =1{устройство} few{устройства} many{устройств} other{устройств}}",
+    "morning_scene": "Утренняя сцена",
+    "night_scene": "Ночная сцена",
+    "rooms": "Комнаты",
+    "scenes": "Сцены",
+    "settings": "Настройки",
+    "addRoom": "Добавить комнату",
+    "editRoom": "Редактировать комнату",
+    "deleteRoom": "Удалить комнату",
+    "roomName": "Название комнаты",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "livingRoom": "Гостиная",
+    "bedroom": "Спальня",
+    "kitchen": "Кухня",
+    "bathroom": "Ванная"
+} 
